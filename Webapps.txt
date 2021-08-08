@@ -1,0 +1,24 @@
+1. Server side rendering
+    i. Server (Front end(HTML, CSS, JS) + back end + DB Query)
+    ii. Response: HTML, CSS, JS, Data
+    iii. Disadvantages: page refresh, consumes more bandwidth, bad UX
+    iv. How many apps will you develop to cater to mobile, desktop or tablet users
+2. Client side rendering apps + REST API
+    will handle 2 requests, 1 for front and 1 for backend
+    i. Servers:
+        a. Front End Server : Single Page Applications (SPA)
+            Deploy frontend app - HTML, CSS, JS - AngularJS/ ReactJS/ VueJS
+            Response: HTML, CSS, JS and waits for the data(AJAX calls)
+
+        b. Back End Server : REST API
+            Deploy JAVA/ .net + DB queries
+            Response: JSON
+        
+        c. Tools/ Frameworks:
+            NodeJS
+            ExpressJS (Most popular - lightweight, easy syntax)
+
+
+
+
+while installation -g will make the installation to happen at global level
